@@ -58,6 +58,8 @@ Gamified sustainability platform where carbon-saving actions power a virtual sol
 ## Coding Profiles
 
 - LeetCode: 250+ Problems Solved
+- Codechef
+- Codename
 - GitHub: https://github.com/Tejal1211
 - LinkedIn: www.linkedin.com/in/tejal-mayekar-s1205p
 
