@@ -34,7 +34,7 @@ MySQL • MongoDB • Firebase • Oracle Database
 ### Cloud & AI
 Google Cloud • Machine Learning • NLP • LangChain • LLaMA 3
 
----
+
 
 ## Featured Projects
 
