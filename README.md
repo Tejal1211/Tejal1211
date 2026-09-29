@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm TEJAL MAYEKAR
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
