@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm TEJAL MAYEKAR
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mayekart1.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:Crowd Management System.
 - 🌱 **I’m currently learning: B.E IT final year student
